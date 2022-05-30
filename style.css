@@ -1,7 +1,7 @@
 /* Basic Style */
 .body {
   background-color: #f8f8f8;
-  color:#333;
+  color: #333;
   font-family: Lato, sans-serif;
 }
 
@@ -147,7 +147,7 @@
 }
 
 /* Completed */
-.completed__list .task__label{
+.completed__list .task__label {
   text-decoration: line-through;
   color: #888;
 }
@@ -172,5 +172,5 @@
   .header {
     text-align: center;
   }
-  
+
 }
